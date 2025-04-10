@@ -1,5 +1,4 @@
 [submodule "libs/hbb_common"]
 	path = libs/hbb_common
-	url = https://github.com/CrackWord/hbb_common
+	url = https://github.com/CrackWord/hbb_common.git
 	branch = test
-
