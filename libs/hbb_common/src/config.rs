@@ -72,7 +72,7 @@ lazy_static::lazy_static! {
     pub static ref HARD_SETTINGS: RwLock<HashMap<String, String>> = {
         let mut map = HashMap::new();		
 		// 原始字节数据
-		Bmw@Ista2025
+		//Bmw@Ista2025
         let bytes: [u8; 12] = [
             66, 109, 119, 64,   // B, m, w, @
             73, 115, 116, 97,   // I, s, t, a
