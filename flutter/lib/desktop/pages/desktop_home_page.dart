@@ -397,7 +397,8 @@ class _DesktopHomePageState extends State<DesktopHomePage>
                 Align(
                   alignment: Alignment.centerLeft,
                   child: Text(
-                    translate("Your Desktop"),
+                   # translate("Your Desktop"),
+                  '${translate("Your Desktop")}@BMW', 
                     style: Theme.of(context).textTheme.titleLarge,
                   ),
                 ),
@@ -423,19 +424,19 @@ class _DesktopHomePageState extends State<DesktopHomePage>
     );
   }
 
-  Widget buildHelpCards(String updateUrl) {
-    if (!bind.isCustomClient() &&
-        updateUrl.isNotEmpty &&
-        !isCardClosed &&
-        bind.mainUriPrefixSync().contains('rustdesk')) {
-      return buildInstallCard(
-          "Status",
-          "${translate("new-version-of-{${bind.mainGetAppNameSync()}}-tip")} (${bind.mainGetNewVersion()}).",
-          "Click to download", () async {
-        final Uri url = Uri.parse('https://rustdesk.com/download');
-        await launchUrl(url);
-      }, closeButton: true);
-    }
+  //Widget buildHelpCards(String updateUrl) {
+    //if (!bind.isCustomClient() &&
+     //   updateUrl.isNotEmpty &&
+     //   !isCardClosed &&
+     //   bind.mainUriPrefixSync().contains('rustdesk')) {
+     // return buildInstallCard(
+     //     "Status",
+      //    "${translate("new-version-of-{${bind.mainGetAppNameSync()}}-tip")} (${bind.mainGetNewVersion()}).",
+      //    "Click to download", () async {
+      //  final Uri url = Uri.parse('https://rustdesk.com/download');
+      //  await launchUrl(url);
+     // }, closeButton: true);
+    //}
     if (systemError.isNotEmpty) {
       return buildInstallCard("", systemError, "", () {});
     }
