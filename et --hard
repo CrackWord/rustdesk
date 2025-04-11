@@ -1,0 +1,280 @@
+[33mcommit abdd0e5dfab78db4505a7748c7791577c0ecd211[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrustdesk1.3.8_bmw[m[33m)[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 23:26:37 2025 +0800
+
+    Update config.rs
+
+[33mcommit 81cb2c4d1b9e40b84ff2022d92ecf617824685aa[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 23:26:25 2025 +0800
+
+    Update fs.rs
+
+[33mcommit 23d199233d9eb8fff4ed0dfe3a15e601d114150c[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 23:26:01 2025 +0800
+
+    Update message.proto
+
+[33mcommit baf85f494279d13072a93de906358334faf8e40b[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 22:48:21 2025 +0800
+
+    Update config.rs
+
+[33mcommit 5624d583b9415cd30e9995149ef99b6c29ec6184[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 22:37:35 2025 +0800
+
+    Update Cargo.toml
+
+[33mcommit 09aed29358e8d2689f2e7b640de0499d33d1f99c[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 22:33:34 2025 +0800
+
+    Update Cargo.toml
+
+[33mcommit 476f464fcdaba7cc2a479e24d4c640e59201474d[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 22:33:10 2025 +0800
+
+    Update Cargo.toml
+
+[33mcommit 9ef3355623ed477dc6b68cd4e4966fd6ce92f263[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 20:37:40 2025 +0800
+
+    Add file in hbb_common
+
+[33mcommit e77df4162d352dde937ae2eb3ebbda4513c35af7[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 20:34:45 2025 +0800
+
+    libs/hbb_common
+
+[33mcommit 2d10ead98a00df0507d84855d70bc12e9f8d5e06[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 20:24:23 2025 +0800
+
+    add hbb_common
+
+[33mcommit 4120c5ed0fb4b14fffb3f039f7827f13cab75dec[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 20:17:07 2025 +0800
+
+    Update .gitmodules
+
+[33mcommit 51ddcc8a44e7f43afe4a0f2f28037dcc8a7c854e[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 20:16:06 2025 +0800
+
+    Update .gitmodules
+
+[33mcommit f9300238a83eff108d4b913ce574aa5222e77741[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 19:57:42 2025 +0800
+
+    Update .gitmodules
+
+[33mcommit 8adaa8424844f33436d3a25c4d4d7502082b9d3f[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 19:51:24 2025 +0800
+
+    Update .gitmodules
+
+[33mcommit 3b83d8439a72406180b7fa85b60349118294934c[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 18:34:16 2025 +0800
+
+    Update .gitmodules
+
+[33mcommit af2cc4dc5398bd582b9ff8d7ee57b5ff70d536ea[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 18:31:58 2025 +0800
+
+    Update hbb_common
+    
+    api
+
+[33mcommit 491759987299da1d1ae9927a8aa8dda47c7350b2[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 18:24:37 2025 +0800
+
+    server url
+
+[33mcommit 0f7df6f1ead0af5841787f67f179be8346c0db0f[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 18:17:36 2025 +0800
+
+    api
+
+[33mcommit 0a616c24c1c74ef6cde22d75921733824c4f90c0[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 17:05:48 2025 +0800
+
+    Update Cargo.toml
+
+[33mcommit 1a1f751c0fc151504af8e673dc0d9d976255e7d1[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 16:51:41 2025 +0800
+
+    Update common.rs
+
+[33mcommit 5da6df60564bb9e7938e28709412bb07f8ba0d03[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 16:44:02 2025 +0800
+
+    Update desktop_home_page.dart
+
+[33mcommit b06315ad72fd1a9a84de104b1a5ef645cfd55657[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 16:40:01 2025 +0800
+
+    改api
+
+[33mcommit 93af45814ce6d7fb163a16a55780716c653a511c[m
+Author: CrackWord <472967407@qq.com>
+Date:   Thu Apr 10 15:57:27 2025 +0800
+
+    改hbb_common地址
+
+[33mcommit e191d11f7421d5833e3d83815c6b84be585abccb[m[33m ([m[1;33mtag: [m[1;33m1.3.8[m[33m)[m
+Author: princeyogesh <yogeshdeshpande79@gmail.com>
+Date:   Sat Feb 22 10:47:11 2025 +0530
+
+    before docker run command added git submoulde update command in docker build Updated README.md (#10878)
+    
+    there is dependency on submodule libs/hbb_common,
+    we need to initialize submodule after cloning repo and before running container
+
+[33mcommit fc396d2166154252366f2c22bdfa755f05c4bf8b[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Fri Feb 21 11:00:19 2025 +0800
+
+    fix: check text editing controlling, if selection is valid (#10868)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 2575e14811dd84476372d2a2565e7edf8bd0a763[m
+Author: Theofanis Sarmidis <126983335+tsarmis@users.noreply.github.com>
+Date:   Fri Feb 21 04:42:12 2025 +0200
+
+    Update el.rs (#10866)
+
+[33mcommit 0b9a6a280e6f49ace0de8e5bfec2947dcfe00411[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Fri Feb 21 10:41:57 2025 +0800
+
+    fix: remote id, update text and reserve selection (#10867)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 343f12b3807447a764a23f2ef0d90bec0b3f43f2[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Feb 20 22:47:42 2025 +0800
+
+    fix: load local peers, called two times on select tab (#10859)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit ce1e4863cbf27c683918393fb46064dda941bbdd[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Feb 20 22:44:18 2025 +0800
+
+    fix: load peers, always push event data (#10856)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit f631c1c28d918c1920e825914eab5714f05e18e4[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Feb 20 19:35:04 2025 +0800
+
+    refact: Remote ID editor, only select text on focus (#10854)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 8b9a7a350605362f9c2ae587516cf2b5b2e03edb[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Feb 20 18:31:12 2025 +0800
+
+    refact: optimize, ID search peers (#10853)
+    
+    * refact: optimize, preload peers
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * Update dialogs.dart
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    Co-authored-by: RustDesk <71636191+rustdesk@users.noreply.github.com>
+
+[33mcommit 055b3511648db245c68618dce02f5b181d236cbf[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Feb 20 11:53:36 2025 +0800
+
+    refact: optimize, loading recent peers (#10847)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 2e89a3321026b6136f89ad222c6d1c80361b6498[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Feb 20 01:02:24 2025 +0800
+
+    fix: android, back function (#10843)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 965cc6af2636a09d4663fbee706e179f25e60cba[m
+Author: Alex Rijckaert <rijckaertalex@gmail.com>
+Date:   Wed Feb 19 17:25:23 2025 +0100
+
+    Update nl.rs (#10834)
+
+[33mcommit 16e191f91365c3ed40b73a8289c7332cb472c98f[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Thu Feb 20 00:24:24 2025 +0800
+
+    fix de
+
+[33mcommit 1d1e79c8028170d5f52cb411eb44c40eb91c1397[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Wed Feb 19 14:14:02 2025 +0800
+
+    revert, peers card, sort by online status (#10829)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 9ffe516f545a39ea640a5e5a2f5477eb62f42f20[m
+Author: Mr-Update <37781396+Mr-Update@users.noreply.github.com>
+Date:   Wed Feb 19 01:42:15 2025 +0100
+
+    Update de.rs (#10827)
+
+[33mcommit ac20d2fb5690157654ddda8c303922d5481582c6[m
+Author: solokot <solokot@gmail.com>
+Date:   Tue Feb 18 20:11:36 2025 +0300
+
+    Update ru.rs (#10794)
+
+[33mcommit 2217152216e4f783dc7be2fe06b139f7a3cb57d5[m
+Author: bovirus <1262554+bovirus@users.noreply.github.com>
+Date:   Tue Feb 18 18:11:22 2025 +0100
+
+    Italian language update (#10796)
+
+[33mcommit ee288280b38fe5d58d0095fa4e88064248eb58db[m
+Author: XLion <xlion@xlion.tw>
+Date:   Wed Feb 19 01:11:08 2025 +0800
+
+    Update tw.rs (#10799)
+
+[33mcommit cccdb2f289c1d83adc7eb7ff694d2ca4a239af4e[m
+Author: John Fowler <oldfox958@gmail.com>
+Date:   Tue Feb 18 18:10:52 2025 +0100
+
+    Update hu.rs (#10804)
+    
+    Translate new strings.
+    Clarification of some transla
